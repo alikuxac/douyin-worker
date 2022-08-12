@@ -1,0 +1,7 @@
+main = "./src/index.ts"
+name = "douyin"
+type = "javascript"
+zone_id = "1e3fc3f7250a3269c81c15b4386654bf"
+account_id = "ffb8e15ec5123398e70eaaad17d26b27"
+workers_dev = true
+compatibility_date = "2022-07-26"
