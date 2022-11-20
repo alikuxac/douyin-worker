@@ -19,7 +19,7 @@
 		]
 	},
 	"devDependencies": {
-		"@cloudflare/workers-types": "^3.18.0",
+		"@cloudflare/workers-types": "^4.20221111.1",
 		"@commitlint/cli": "^17.2.0",
 		"@commitlint/config-conventional": "^17.2.0",
 		"@ryansonshine/commitizen": "^4.2.8",
